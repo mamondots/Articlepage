@@ -1,0 +1,32 @@
+.tabs{
+    padding:12px 12px;
+    color:#10147E;
+    font-weight:600;
+    font-size:14px;
+}
+.active-tabs.tabs{
+    background-color:#10147E;
+    padding:12px 12px;
+    color:#fff;
+    font-weight:600;
+    font-size:14px;
+}
+
+.content{
+    display:none;
+}
+.active-content{
+    display:block;
+}
+
+.pageNumder li{
+    color:#10147E;
+    padding:2px 10px;
+   
+}
+
+.pageNumder li.active{
+    background-color:#10147E;
+    color:#fff;
+    
+}

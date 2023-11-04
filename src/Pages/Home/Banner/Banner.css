@@ -1,0 +1,25 @@
+.banner{
+    background-image:url('../../../assets/image/bg-1.jpg');
+    background-position:center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    width:100%;
+    height:100%;
+    position: relative;
+    font-family: 'Open Sans', sans-serif;
+}
+.banner::before{
+    position: absolute;
+    content:"";
+    width:100%;
+    height:100%;
+    left:0;
+    top:0;
+    background-color:#d2cbc38c;
+}
+.short-link{
+    font-family: 'Open Sans', sans-serif;
+}
+.banner-title{
+    font-family: 'PT Serif', serif;
+}

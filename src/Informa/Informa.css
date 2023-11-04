@@ -1,0 +1,21 @@
+.informa{
+    font-family: 'Open Sans', sans-serif;
+}
+.informa ul li a{
+    transition:0.5s;
+}
+.informa ul li a:hover{
+    color:#10147E;
+}
+.side-line{
+    position: relative;
+}
+.side-line::before{
+    position: absolute;
+    content:"";
+    width:1px;
+    height:100%;
+    background-color:#ffffff5b;
+    left:-16px;
+    top:0
+}

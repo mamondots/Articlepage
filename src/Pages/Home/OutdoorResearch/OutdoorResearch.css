@@ -1,0 +1,21 @@
+.arrow{
+    font-size:30px;
+    padding:8px 8px;
+    background-color:#fff;
+    position: absolute;
+    display:flex;
+    top:150px;
+    z-index:2;
+    transition:0.5s;
+    cursor: pointer;
+}
+.arrow:hover{
+    background-color:#9D4D4A;
+    color:#fff;
+}
+.arrow-prev{
+    right:10px;
+}
+.arrow-next{
+    left:12px;
+}

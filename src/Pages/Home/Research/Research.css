@@ -1,0 +1,10 @@
+.img-white{
+    filter: grayscale(100);
+    transition:0.5s;
+}
+.research-box:hover .img-white{
+    filter: grayscale(0);
+}
+.side-icon{
+    
+}

@@ -1,0 +1,29 @@
+[
+    
+    {
+        "id": 1,
+        "head": "Librarians",
+        "title": "Connect with our world-class resources.",
+        "click": "Resources for librarians"
+    },
+    {
+        "id": 2,
+        "head": "Authors",
+        "title": "Publish your research. Enhance your career.",
+        "click": "Resources for authors"
+    },
+    {
+        "id": 3,
+        "head": "Editors",
+        "title": "Essential guidance and support for editors.",
+        "click": "Resources for editors"
+    },
+    {
+        "id": 4,
+        "head": "Societies",
+        "title": "Collaborative publishing, global reach.",
+        "click": "Resources for societies"
+    }
+    
+]
+  

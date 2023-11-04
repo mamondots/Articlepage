@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "title":"Limited time offer",
+        "image":"https://i.ibb.co/6ZrJb5R/outdoor01.webp",
+        "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nostrum possimus ipsam voluptatum commodi ipsum libero temporibus natus reprehenderit, recusandae explicabo, similique amet illum animi voluptatibus."
+    },
+
+    {
+        "id":2,
+        "title":"English language editing",
+        "image":"https://i.ibb.co/Lgjp4k5/outdoor02.webp",
+        "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nostrum possimus ipsam voluptatum commodi ipsum libero temporibus natus reprehenderit, recusandae explicabo, similique amet illum animi voluptatibus."
+    },
+
+    {
+        "id":3,
+        "title":"Keep up to date",
+        "image":"https://i.ibb.co/vBwMsxM/outdoor03.webp",
+        "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nostrum possimus ipsam voluptatum commodi ipsum libero temporibus natus reprehenderit, recusandae explicabo, similique amet illum animi voluptatibus."
+    },
+
+    {
+        "id":4,
+        "title":"Explore our books",
+        "image":"https://i.ibb.co/mB3kGWf/outdoor06.webp",
+        "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nostrum possimus ipsam voluptatum commodi ipsum libero temporibus natus reprehenderit, recusandae explicabo, similique amet illum animi voluptatibus."
+    },
+
+    {
+        "id":5,
+        "title":"Explore Routledge Open Research",
+        "image":"https://i.ibb.co/FxXwHYc/outdoor04.webp",
+        "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nostrum possimus ipsam voluptatum commodi ipsum libero temporibus natus reprehenderit, recusandae explicabo, similique amet illum animi voluptatibus."
+    },
+
+    {
+        "id":6,
+        "title":"Must-read open access books",
+        "image":"https://i.ibb.co/zQq3fSh/outdoor05.webp",
+        "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nostrum possimus ipsam voluptatum commodi ipsum libero temporibus natus reprehenderit, recusandae explicabo, similique amet illum animi voluptatibus."
+    }
+
+]

@@ -1,0 +1,44 @@
+.navbar{
+    font-family: 'Open Sans', sans-serif;
+}
+.navLink ul li a{
+    position: relative;
+    transition:0.5s;
+    color:#bcbcbc;
+}
+.navLink ul li a:hover{
+    color:#fff;
+}
+.navLink ul li a::before{
+    position: absolute;
+    content:"";
+    width:12px;
+    height:12px;
+    border-radius:50%;
+    background-color:#fff;
+    top:50%;
+    left:45%;
+    transition:0.5s;
+    opacity:0;
+    visibility: hidden;
+}
+.navLink ul li a:hover::before{
+    top:-50%;
+    opacity:1;
+    visibility: visible;
+}
+.board{
+    opacity:0;
+    visibility:hidden;
+    transition:0.8s;
+    transform:translateY(20px);
+}
+.das{
+    transition:0.8s;
+}
+
+.das:hover .board{
+    opacity:1;
+    visibility:visible;
+    transform:translateY(0px);
+}
